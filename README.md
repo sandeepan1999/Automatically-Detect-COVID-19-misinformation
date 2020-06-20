@@ -2,7 +2,7 @@
 * Created a tool that automatically detects whether an article is Genuine or Fake.
 * Explored over 1,100 news articles and social network posts on COVID-19 from a variety of new sources.
 * Engineered features from the title and text of each article.
-* Optimised a a Support Vector Machine (SVM) model with a linear kernel and 10-fold cross-validation to prevent overfitting.
+* Optimised a Support Vector Machine (SVM) model with a linear kernel and 10-fold cross-validation to prevent overfitting.
 
 ## Code and Resources Used:
 __Python Version:__ 3.7 
