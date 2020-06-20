@@ -1,4 +1,4 @@
-# Automatically Detect COVID-19 misinformation: Project Overview
+# Automatically Detect COVID-19 misinformation: NLP Project Overview
 * Created a tool that automatically detects whether an article is Genuine or Fake.
 * Explored over 1,100 news articles and social network posts on COVID-19 from a variety of new sources.
 * Engineered features from the title and text of each article.
